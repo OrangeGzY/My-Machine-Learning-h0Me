@@ -102,17 +102,6 @@ plt.ylabel('sepal width')
 plt.legend()
 
 
-
-
-'''
-plt.plot(data[:50, 0], data[:50, 1], 'bo', color='blue', label='0')
-plt.plot(data[50:100, 0], data[50:100, 1], 'bo', color='orange', label='1')
-plt.xlabel('sepal length')
-plt.ylabel('sepal width')
-plt.legend()
-'''
-
-
     
         
            
